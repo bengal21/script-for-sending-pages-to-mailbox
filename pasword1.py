@@ -1,6 +1,0 @@
-# pasword = '2891aaaA!@'
-# sender = 'worldad20@gmail.com'
-pasword = '2891aaaa'
-sender = 'leonov_dubai@mail.ru'
-# reciver = 'leonovdubai@gmail.com'
-reciver = 'worldad20@gmail.com'
